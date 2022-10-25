@@ -1,0 +1,11 @@
+- Arduino UNO:
+- L298N Voltaj Regulatörlü Çift Motor Sürücü Kartı
+- HC-SR04 Ultrasonik Mesafe Sensörü
+- 6’lı AA Pil Yuvası
+- Klemens Girişli DC Barrel Jack
+- Kalem Pil
+- Jumper Kablo
+
+mekanik  frame
+
+https://youtu.be/tzNROquPEHQ
